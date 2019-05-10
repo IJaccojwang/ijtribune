@@ -1,0 +1,1 @@
+web: gunicorn ijtibune.wsgi --log-file -
